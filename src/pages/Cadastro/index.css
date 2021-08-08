@@ -1,0 +1,39 @@
+.logo-text{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+  color: #000;
+  font-weight: 800;
+  border-radius: 10px;
+  padding: 10px;
+  width: 80%;
+  height: 500px;
+  margin-top: 10px;
+  font-size: 18px;
+  border: none;
+  margin: auto;
+  position: absolute; 
+	left: 125px; 
+	top: 50px; 
+}
+
+.logo h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: revert;
+  
+
+}
+.text form{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.button-log{
+  margin: 60px;
+  text-align: -webkit-right;
+}
+
+
